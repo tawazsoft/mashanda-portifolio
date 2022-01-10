@@ -383,6 +383,7 @@ h3.my-profession
     font-size: 16px;
     color: var(--text-black-900);
     border-bottom: 1px solid var(--bg-black-50);
+    overflow-wrap: anywhere;
 }
 .about .about-content .personal-info .info-item p span
 {
@@ -530,7 +531,7 @@ h3.my-profession
 {
     line-height: 25px;
     font-size: 16px;
-    text-align: justify;
+    text-align: left;
     color: var(--text-black-700);
 }
 /* service */
